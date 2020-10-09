@@ -16,3 +16,6 @@ stdcerr
 
 # JetBrains
 /.idea
+
+# Bazel
+/bazel-*
